@@ -388,6 +388,7 @@ body {
 
 .is-open {
   display: flex;
+  overflow: auto;
 }
 
 .modal-dialog {
