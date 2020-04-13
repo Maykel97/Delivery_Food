@@ -562,6 +562,12 @@ body {
   }
 }
 
+@media (max-width: 640px) {
+  .ingredients {
+    font-size: 13px;
+  }
+}
+
 @media (max-width: 578px) {
   .container {
     width: 90%;
@@ -863,7 +869,7 @@ body {
   }
 }
 
-@media (max-width: 383px) {
+@media (max-width: 386px) {
   .is-open {
     overflow: auto;
   }
